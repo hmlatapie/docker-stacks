@@ -1,1 +1,1 @@
-docker build -t hmlatapie/datascience-notebook
+docker build -t hmlatapie/datascience-notebook .
